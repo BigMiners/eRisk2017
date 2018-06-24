@@ -1,0 +1,3 @@
+install jar in your local maven repo:
+
+mvn install:install-file -Dfile=resources/lib/vader-1.0-SNAPSHOT.jar -DgroupId="com.vader.sentiment" -DartifactId="vader" -Dversion="1.0-SNAPSHOT" -Dpackaging=jar

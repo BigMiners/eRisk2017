@@ -1,0 +1,351 @@
+#https://en.wikipedia.org/wiki/Stimulant notable stimulants
+Amphetamine
+Caffeine
+Ephedrine
+MDMA
+MDPV
+Mephedrone
+Methamphetamine
+Nicotine
+Propylhexedrine
+Pseudoephedrine
+Catha edulis
+Khat
+Cocaine
+#https://en.wikipedia.org/wiki/Anxiolytic
+Tofisopam
+Emandaxin
+Grandaxin
+Alprazolam
+Xanax
+Bromazepam
+Lectopam
+Lexotan
+Chlordiazepoxide
+Librium
+Clonazepam
+Klonopin
+Rivotril
+Clorazepate
+Tranxene
+Diazepam
+Valium
+Flurazepam
+Dalmane
+Lorazepam
+Ativan
+Oxazepam
+Serax
+Serapax
+Temazepam
+Restoril
+Triazolam
+Halcion
+#https://en.wikipedia.org/wiki/Opioid classification
+morphine
+codeine
+thebaine
+Oripavine
+papaverine
+noscapine
+diacetylmorphine
+morphine diacetate
+heroin
+nicomorphine
+morphine dinicotinate
+dipropanoylmorphine
+morphine dipropionate
+desomorphine
+Methyldesorphine
+acetylpropionylmorphine
+dibenzoylmorphine
+diacetyldihydromorphine
+hydromorphone
+hydrocodone
+oxycodone
+oxymorphone
+ethylmorphine
+buprenorphine
+fentanyl
+Alphamethylfentanyl
+Alfentanil
+Sufentanil
+Remifentanil
+Carfentanyl
+Ohmefentanyl
+Etorphine
+pethidine
+levorphanol
+methadone
+tramadol
+tapentadol
+Propoxyphene
+dextropropoxyphene
+naloxone
+Tramadol
+tapentadol
+Dihydrocodeine
+Ethylmorphine
+Heterocodeine
+Pethidine
+meperidine
+Ketobemidone
+MPPP
+Allylprodine
+Prodine
+PEPAP
+Promedol
+Dextromoramide
+Bezitramide
+Piritramide
+Methadone
+Dipipanone
+Levomethadyl Acetate
+LAAM
+Difenoxin
+Diphenoxylate
+Loperamide
+Dezocine
+Pentazocine
+Phenazocine
+Butorphanol
+Nalbuphine
+Levomethorphan
+Nalmefene
+Eluxadoline
+AP-237
+Lefetamine
+Menthol
+Kappa-Opioid agonist
+Meptazinol
+Mitragynine
+Tilidine
+#https://en.wikipedia.org/wiki/Benzodiazepine chemistry - common types
+clorazepate
+diazepam
+flurazepam
+halazepam
+prazepam
+lorazepam
+lormetazepam
+oxazepam
+temazepam
+clonazepam
+flunitrazepam
+nimetazepam
+nitrazepam
+adinazolam
+alprazolam
+estazolam
+triazolam
+climazolam
+loprazolam
+midazolam
+#https://en.wikipedia.org/wiki/Cannabinoid#Phytocannabinoids types
+marijuana
+cannabis
+CBG
+Cannabigerol
+CBC
+Cannabichromene
+CBL
+Cannabicyclol
+CBV
+Cannabivarin
+THCV
+Tetrahydrocannabivarin
+CBDV
+Cannabidivarin
+CBCV
+Cannabichromevarin
+CBGV
+Cannabigerovarin
+CBGM
+Cannabigerol Monomethyl Ether
+THC
+Tetrahydrocannabinol
+THCA
+Tetrahydrocannbinolic acid
+CBD
+Cannabidiol
+CBDA
+Cannabidiolic Acid
+#https://en.wikipedia.org/wiki/Dissociative
+Amantadine
+Memantine
+Rimantadine
+2-Fluorodeschloroketamine
+fluoroketamine
+2-FDCK
+Deschloroketamine
+O-pcm
+DCK
+Dieticyclidine
+Esketamine
+Eticyclidine
+Gacyclidine
+Ketamine[5]
+Metaphit
+Methoxetamine
+Methoxmetamine
+Phencyclidine
+Phenylhexylcyclopyrrolidine
+Rolicyclidine
+Tenocyclidine
+Tiletamine
+Methoxydine
+4-MeO-PCP
+3-MeO-PCP
+3-MeO-PCE
+O-PCE
+2-TFMDCK
+2-Trifluoromethyldeschloroketamine
+Dextromethorphan
+Dextrorphan
+Methorphan
+Morphanol
+Diphenidine
+Ephenidine
+Fluorolintane
+Methoxphenidine
+Remacemide
+2-MDP
+8A-PDHQ
+Aptiganel
+Chloroformlsd
+Dexoxadrol
+Diethyl ether
+Dizocilpine
+Etoxadrol
+Ibogaine
+Midafotel
+NEFA
+Nitrous oxide
+Neramexane
+Noribogaine
+Perzinfotel
+Selfotel
+Xenon
+Naturally occurring
+Rhynchophylline
+#https://en.wikipedia.org/wiki/Deliriant - classes of deliriants
+atropine
+hyoscyamine
+scopolamine
+cyclizine
+dimenhydrinate
+diphenhydramine
+doxylamine
+dpromethazine
+benzydamine
+benactyzine
+N-ethyl-3-piperidyl benzilate
+N-methyl-3-piperidyl benzilate
+3-quinuclidinyl benzilate
+ditran
+EA-3167
+Myristicin
+#https://en.wikipedia.org/wiki/Psilocybin_mushroom
+mushrooms
+shrooms
+magic mushrooms
+psychedelic mushrooms
+psilocybin mushrooms
+#https://medlineplus.gov/ency/patientinstructions/000798.htm
+#Barbiturates
+Amytal
+Nembutal
+phenobarbital
+Seconal
+barbs
+phennies
+tooies
+yellow jackets
+#Benzodiazepines
+Ativan
+Halcion
+Klonopin Librium
+Valium
+Xanax
+benzos
+chill pills
+downers
+sleeping pills
+totem poles
+tranks
+#sleep medicines
+Ambien
+Sonata
+Lunesta
+zombie pills
+#Codeine
+Robitussin
+captain cody
+#cody
+school boy
+purple drank
+sizzup
+Texas tea
+#Fentanyl
+Actiq
+Duragesic
+Onsolis
+Sublimaze
+apache
+china girl
+china white
+dance fever
+#goodfella
+#jackpot
+percopop
+#Hydrocodone
+Lorcet
+Lortab
+Vicodin
+#fluff
+hydros
+vic
+#vike
+#Watson-387
+#Morphine
+Avinza
+Duramorph
+Kadian
+Ormorph
+Roxanol
+#dreamer
+first line
+miss emma
+mister blue
+morf
+morpho
+white stuff
+#Oxycodone
+Oxycontin
+Percocet
+Percodan
+Tylox
+hillbilly heroin
+oxy
+oxycet
+oxycotton
+percs
+#Amphetamines
+Adderall
+Biphetamine
+Dexedrine
+bennies
+black beauties
+crosses
+truck drivers
+uppers
+#Methylphenidate
+Concerta
+Metadate
+Quillivant
+Ritalin
+JIF
+kibbles and bits
+MPH
+skippy
+the smart drug

@@ -1,0 +1,157 @@
+###############
+# eRisk 2017 shared task
+###############
+# if using two projects mixed, main project should be written first (separate by "-")
+PROJECT=erisk
+#PROJECT=erisk-clpsych
+# document unit = "user", or "post"
+UNIT=user
+################
+# Folder paths #
+################
+CORPUS_DIRECTORY=/src/test/resources/corpus
+WORK_DIRECTORY=./
+ENSEMBLE_DIR=/ensemble/ensemble_name
+PLAINTXT_DIR=_plaintxt
+TXT2VEC_DIR=_google2vec
+#TXT2VEC_DIR=_txt2vec
+TXT2VEC_LEVEL=doc
+RESOURCES_DIR=/resources
+FEATURE_DIR=/features
+MODEL_DIR=/model
+TAGGER_DIR=/tagger
+RESULTS_DIR=/results
+DICTIONARIES_DIR=/dictionaries
+VOCABULARY_DIC_DIR=/vocabulary
+SMILEY_DIC_DIR=/smiley
+################
+# vader        #
+################
+# mode to execute analysis
+MODE=score
+# consider granularity per post (not per user)
+POST_GRAN=true
+# use only user maximum score among all posts
+POST_MAX= false
+# use chunk number as weight
+CHUNK_WEIGHT=true
+# consider user progress over time
+USER_PROG=true
+# minimal percentage of progress to map to neg.sentiment
+SCORE_PERC=0.15
+################
+# deep learner #
+################
+# load neural network training graphical interface
+loadNNGraph=false
+# output a prediction file
+writeFile=true
+#numEpochs default mlp = 30 | rnn = 1 | cnn = 1
+numEpochs=1
+#batchSize default mlp = 50 | rnn = 32 | cnn = 64
+batchSize=32
+#lstmLayerSize default mlp = N/A | rnn = 20 | cnn = N/A (length of vectors)
+lstmLayerSize=20
+#tbpttLength default mlp = N/A | rnn = 50 | cnn = N/A
+tbpttLength=30
+#iterations default mlp = 1 | rnn =1 | cnn=20
+iterations=1
+#numHiddenNodes default mlp = 20 | rnn = N/A | cnn = N/A
+numHiddenNodes=20
+################
+# Resources    #
+################
+GOLD_DATA=/path/to/gold/data
+GOOGLE_WORD2VEC=/path/to/GoogleNews-vectors-negative300.bin
+TAGGER_FILE=english-left3words-distsim.tagger
+FEELINGS_DIC=feelingwords_mapping.txt
+MEDS_DIC=meds.txt
+DRUGS_DIC=drugs.txt
+DISEASES_DIC=diseases.txt
+VOCABULARY_DIC=discriminative_verbs
+SMILEYS_DIC=smiley_mapping_reachout.txt,smiley_mapping_unicode.txt,smiley_mapping_wikipedia.txt
+STOP_FILE=stop_words/stopwords
+USER_WRITINGS=writings-per-subject-all-train.txt
+################
+# File names   #
+################
+# Features - dictionaries
+SENTIC_FILE=features.dictionary.sentic
+FEELINGS_FILE=features.sentiment.feelings
+MEDS_FILE=features.dictionary.meds
+DRUGS_FILE=features.dictionary.drugs
+DISEASES_FILE=features.dictionary.diseases
+# Features - Ngrams
+NGRAM_FILE=
+# Features - POS
+POS_FILE=features.POStags
+# Ensemble - library
+ENSEMBLE_LIB=lmt_smo_merged.model.xml
+# ARFFs
+MODEL_FILE=training_matrix.arff
+TEST_FILE=test_matrix.arff
+#
+################
+# Extractors   #
+################
+USE_GOOGLEVEC=true
+# filtering
+USE_STOPFILTER=false
+USE_ZIPFFILTER=false
+######### For ngrams, POS
+USE_STEM=true
+#########
+## Dictionaries
+# Sentic
+USE_SENTIC=false
+# Feelings
+USE_FEELINGS=false
+# Meds
+USE_MEDS=false
+USE_MEDS_COUNT=false
+# Drugs
+USE_DRUGS=false
+USE_DRUGS_COUNT=false
+# Diseases
+USE_DISEASES=false
+USE_DISEASES_COUNT=false
+## Writings
+# number of user writings needed to label user
+USE_WRITINGS_COUNT=false
+WRITINGS_THRESHOLD=400
+# Vocabulary by writings
+USE_VOCABULARY=false
+VOCABULARY_OCC=3
+## Post frequency
+# Number of posts WRT time per user
+USE_POST_FREQ=true
+## Ngrams
+USE_NGRAM=false
+NGRAM_SIZE=2
+# POS
+USE_POS=false
+################
+# Task details #
+################
+#leave at 0 if no sampling is being used
+SAMPLING_PERC=0
+# CFS feature selection
+CFS=false
+# cross-validation
+FOLDS=10
+CV=false
+# ensemble tasks: - build (build models from train set) - forward (train & test sets)
+ENSEMBLE_TASK=forward
+# models and classification
+TASK=train
+#TASK=test
+################
+# use rules for crisis
+USE_RULES=false
+OVERWRITE_RULES=false
+################
+########## Configuration for SOLR Queries - Mainly used in the bm25 package - See more @ https://gitlab.ikb.info.uqam.ca/mjmeurs/erisk/wikis/how-to-configure-ir-approach ###############
+SOLR_BASE_URL=http://localhost:8983/solr/
+SOLR_CORES=eriskRun2,eriskMoreLikeThis
+TEST_CORPORA_DIRECTORY=/home/antoine/workspace/latece/erisk/data/chunk 9
+IR_RESULT_PATH=/home/antoine/workspace/latece/erisk/results

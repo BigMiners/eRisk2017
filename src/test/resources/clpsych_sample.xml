@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<response status="success">
+  <message type="message" href="/messages/id/666">
+    <board_id type="int">8761</board_id>
+    <root type="message" href="/messages/id/86"/>
+    <kudos>
+      <count type="int">0</count>
+    </kudos>
+    <message_rating type="float">0.0</message_rating>
+    <last_edit_author type="user" href="/users/id/6687">
+      <login type="string">dummyuser</login>
+    </last_edit_author>
+    <post_time type="date_time">2015-04-24T04:46:30+00:00</post_time>
+    <last_edit_time type="date_time">2015-04-24T04:46:30+00:00</last_edit_time>
+    <body type="string">going back to America in less than a week</body>
+    <thread type="thread" href="/threads/id/86"/>
+    <board type="board" href="/boards/id/Intros"/>
+    <parent type="message" href="/messages/id/135259"/>
+    <teaser type="string"></teaser>
+    <views>
+      <count type="int">218</count>
+    </views>
+    <subject type="string">This is a subject</subject>
+    <id type="int">666</id>
+    <read_only type="boolean">false</read_only>
+    <deleted type="boolean">false</deleted>
+    <author type="user" href="/users/id/6687">
+      <login type="string">dummyuser</login>
+    </author><clpsychlabel>green</clpsychlabel>
+  </message>
+</response>
