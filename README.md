@@ -1,4 +1,4 @@
-# eRisk
+# eRisk 2017
 
 [eRisk 2017](http://erisk.irlab.org/)
 
